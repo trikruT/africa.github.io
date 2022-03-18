@@ -1,0 +1,30 @@
+h1
+{
+	color: red;
+	size: 56;
+}
+select
+{
+	width: 200PX;
+	border: 5;
+	height: 30;
+}
+body
+{
+	background-color: white;
+}
+#frame
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+input type="submit" value="Envoyer" size="30"
+input type="reset" value="Effacer" size="30"
+
+{
+	width: 200px;
+	height: 30;
+}
